@@ -1,10 +1,10 @@
 'use client';
+
 import { useEffect } from 'react';
+
 export default function Page() {
+  //redirect to the landing page for the ministry day volunteer sign up form
   useEffect(() => {
-    setTimeout(() => {
-      //redirect to the landing page for the ministry day volunteer sign up form
-      window.location.href = 'https://www.google.com';
-    }, 1);
+    window.location.href = 'https://www.google.com';
   }, []);
 }
