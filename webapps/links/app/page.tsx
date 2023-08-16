@@ -17,6 +17,9 @@ export default function Home() {
               Ministry Day Sign Up QR Code
             </a>
           </li>
+          <li>
+            <a href="/ministry-day-2023/site">Ministry Day Site</a>
+          </li>
         </ul>
       </article>
     </main>
